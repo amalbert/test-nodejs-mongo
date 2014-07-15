@@ -1,0 +1,1 @@
+pour lancer le serveur mongo > mongod --dbpath c:/dev/mongotest/db
